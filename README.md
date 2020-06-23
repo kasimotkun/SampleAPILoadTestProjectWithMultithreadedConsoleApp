@@ -1,7 +1,8 @@
 # SampleAPILoadTestProjectWithMultithreadedConsoleApp
 Sample API Load Test Project With Multi Threaded Console Application
 
-REQS;
+REQS
+
 Dotnet Core 3.1
 Restsharp Framework
 Newtonsoft.Json dll
