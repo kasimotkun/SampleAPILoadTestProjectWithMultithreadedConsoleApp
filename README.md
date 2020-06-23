@@ -3,9 +3,9 @@ Sample API Load Test Project With Multi Threaded Console Application
 
 REQS
 
-  Dotnet Core 3.1
-  Restsharp Framework
-  Newtonsoft.Json dll
+ 1) Dotnet Core 3.1
+ 2) Restsharp Framework
+ 3) Newtonsoft.Json dll
 
 How to Run 
 1) Build the project using  "dotnet build" command
